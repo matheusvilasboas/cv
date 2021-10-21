@@ -1,0 +1,37 @@
+  body {
+    background-color: #EAF6F6;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: grey;
+    width: 5%;
+  }
+
+img:hover {
+  background-color: powderblue;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+
+/* ASSIM SE FAZ COMENTARIOS */
+
+#heading {
+  color: powderblue;
+}
+
+.trabalhos {
+  color: powderblue;
+}
+
+/* ACIMA TEMOS CLASS E IDS EM DOIS EXEMPLOS.
+ID SO PODE TER UMA LINHA, E CLASS PODE TER EM TODAS*/
